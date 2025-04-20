@@ -1,0 +1,11 @@
+streamlit
+librosa
+numpy
+moviepy
+Pillow
+spacy
+PySoundFile
+openai-whisper
+diffusers
+torch
+transformers
